@@ -1,0 +1,1 @@
+"policies":[{"vhost":"/","name":"cluster2","pattern":"^ciii*","apply-to":"queues","definition":{"ha-mode":"nodes","ha-params":["rabbit@VDI01T11HSC-075","rabbit@VDI01T11HSC-076"],"ha-sync-mode":"automatic"},"priority":0}]
